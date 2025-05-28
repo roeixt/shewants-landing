@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "category": "Beauty & Self-Care",
+    "name": "LED Makeup Mirror",
+    "originalCost": 8.00,
+    "price": 22.99,
+    "estimatedProfit": 2.30,
+    "image": "https://example.com/mirror.jpg",
+    "link": "https://your-affiliate-link.com/mirror",
+    "description": "Perfect lighting for perfect looks — anytime, anywhere."
+  },
+  {
+    "id": 2,
+    "category": "Beauty & Self-Care",
+    "name": "Rose Quartz Facial Roller",
+    "originalCost": 3.50,
+    "price": 13.50,
+    "estimatedProfit": 1.35,
+    "image": "https://example.com/roller.jpg",
+    "link": "https://your-affiliate-link.com/roller",
+    "description": "Glow naturally with a cooling, soothing face massage."
+  },
+  {
+    "id": 3,
+    "category": "Beauty & Self-Care",
+    "name": "Mini Travel Hair Curler",
+    "originalCost": 9.00,
+    "price": 19.90,
+    "estimatedProfit": 2.00,
+    "image": "https://example.com/curler.jpg",
+    "link": "https://your-affiliate-link.com/curler",
+    "description": "Curls on-the-go? Yes, please!"
+  },
+  {
+    "id": 4,
+    "category": "Fashion & Accessories",
+    "name": "Boho Layered Necklace Set",
+    "originalCost": 2.50,
+    "price": 9.80,
+    "estimatedProfit": 0.98,
+    "image": "https://example.com/necklace.jpg",
+    "link": "https://your-affiliate-link.com/necklace",
+    "description": "Stack your style like a queen."
+  },
+  {
+    "id": 5,
+    "category": "Fashion & Accessories",
+    "name": "Chic Crossbody Mini Bag",
+    "originalCost": 8.00,
+    "price": 24.50,
+    "estimatedProfit": 2.45,
+    "image": "https://example.com/bag.jpg",
+    "link": "https://your-affiliate-link.com/bag",
+    "description": "Classy, compact, and crazy cute."
+  },
+  {
+    "id": 6,
+    "category": "Fashion & Accessories",
+    "name": "Oversized Gradient Sunglasses",
+    "originalCost": 5.00,
+    "price": 16.99,
+    "estimatedProfit": 1.70,
+    "image": "https://example.com/sunglasses.jpg",
+    "link": "https://your-affiliate-link.com/sunglasses",
+    "description": "Big shades, bigger vibes."
+  },
+  {
+    "id": 7,
+    "category": "Home & Vibes",
+    "name": "Aromatherapy Essential Oil Diffuser",
+    "originalCost": 10.00,
+    "price": 18.00,
+    "estimatedProfit": 1.80,
+    "image": "https://example.com/diffuser.jpg",
+    "link": "https://your-affiliate-link.com/diffuser",
+    "description": "Turn your room into a spa — instantly."
+  },
+  {
+    "id": 8,
+    "category": "Home & Vibes",
+    "name": "LED Moon Night Light",
+    "originalCost": 5.50,
+    "price": 12.49,
+    "estimatedProfit": 1.25,
+    "image": "https://example.com/moonlight.jpg",
+    "link": "https://your-affiliate-link.com/moonlight",
+    "description": "A dreamy glow for your cozy nights."
+  },
+  {
+    "id": 9,
+    "category": "Home & Vibes",
+    "name": "Velvet Jewelry Organizer Box",
+    "originalCost": 6.00,
+    "price": 14.90,
+    "estimatedProfit": 1.49,
+    "image": "https://example.com/jewelrybox.jpg",
+    "link": "https://your-affiliate-link.com/jewelrybox",
+    "description": "Keep your sparkle organized."
+  },
+  {
+    "id": 10,
+    "category": "Mom Life Essentials",
+    "name": "Portable Bottle Warmer",
+    "originalCost": 12.00,
+    "price": 27.99,
+    "estimatedProfit": 2.80,
+    "image": "https://example.com/bottlewarmer.jpg",
+    "link": "https://your-affiliate-link.com/bottlewarmer",
+    "description": "Because a warm bottle = a happy baby."
+  },
+  {
+    "id": 11,
+    "category": "Mom Life Essentials",
+    "name": "Diaper Changing Pad Kit",
+    "originalCost": 8.00,
+    "price": 21.00,
+    "estimatedProfit": 2.10,
+    "image": "https://example.com/diaperpad.jpg",
+    "link": "https://your-affiliate-link.com/diaperpad",
+    "description": "Style meets survival for every mom."
+  },
+  {
+    "id": 12,
+    "category": "Mom Life Essentials",
+    "name": "Baby Stroller Hooks (2pcs)",
+    "originalCost": 1.50,
+    "price": 6.50,
+    "estimatedProfit": 0.65,
+    "image": "https://example.com/hooks.jpg",
+    "link": "https://your-affiliate-link.com/hooks",
+    "description": "Hang everything. Hands-free. Stress-free."
+  },
+  {
+    "id": 13,
+    "category": "Fitness & Wellness",
+    "name": "Resistance Bands Set",
+    "originalCost": 5.00,
+    "price": 14.99,
+    "estimatedProfit": 1.50,
+    "image": "https://example.com/bands.jpg",
+    "link": "https://your-affiliate-link.com/bands",
+    "description": "Tone up without leaving your bedroom."
+  },
+  {
+    "id": 14,
+    "category": "Fitness & Wellness",
+    "name": "Yoga Mat with Carry Strap",
+    "originalCost": 13.00,
+    "price": 29.90,
+    "estimatedProfit": 3.00,
+    "image": "https://example.com/yogamat.jpg",
+    "link": "https://your-affiliate-link.com/yogamat",
+    "description": "Your portable zen zone."
+  },
+  {
+    "id": 15,
+    "category": "Fitness & Wellness",
+    "name": "Smart Water Bottle with Time Marker",
+    "originalCost": 6.50,
+    "price": 17.80,
+    "estimatedProfit": 1.78,
+    "image": "https://example.com/waterbottle.jpg",
+    "link": "https://your-affiliate-link.com/waterbottle",
+    "description": "Stay hydrated like a queen."
+  },
+  {
+    "id": 16,
+    "category": "Fashion & Accessories",
+    "name": "Satin Hair Scrunchies (5 Pack)",
+    "originalCost": 2.00,
+    "price": 7.99,
+    "estimatedProfit": 0.80,
+    "image": "https://example.com/scrunchies.jpg",
+    "link": "https://your-affiliate-link.com/scrunchies",
+    "description": "Soft, shiny, stylish — yes, to all."
+  },
+  {
+    "id": 17,
+    "category": "Beauty & Self-Care",
+    "name": "Makeup Brush Cleaning Pad",
+    "originalCost": 1.50,
+    "price": 5.50,
+    "estimatedProfit": 0.55,
+    "image": "https://example.com/cleanpad.jpg",
+    "link": "https://your-affiliate-link.com/cleanpad",
+    "description": "Clean brushes = flawless face."
+  },
+  {
+    "id": 18,
+    "category": "Home & Vibes",
+    "name": "Scented Candle in Glass Jar",
+    "originalCost": 4.00,
+    "price": 11.99,
+    "estimatedProfit": 1.20,
+    "image": "https://example.com/candle.jpg",
+    "link": "https://your-affiliate-link.com/candle",
+    "description": "Mood? Lit."
+  },
+  {
+    "id": 19,
+    "category": "Mom Life Essentials",
+    "name": "Pacifier Clip Set",
+    "originalCost": 2.00,
+    "price": 6.80,
+    "estimatedProfit": 0.68,
+    "image": "https://example.com/pacifier.jpg",
+    "link": "https://your-affiliate-link.com/pacifier",
+    "description": "No more lost pacifiers. Ever."
+  },
+  {
+    "id": 20,
+    "category": "Fitness & Wellness",
+    "name": "Massage Ball for Deep Tissue",
+    "originalCost": 3.00,
+    "price": 9.99,
+    "estimatedProfit": 1.00,
+    "image": "https://example.com/massageball.jpg",
+    "link": "https://your-affiliate-link.com/massageball",
+    "description": "Because recovery is part of the grind."
+  }
+]

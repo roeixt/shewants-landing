@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SheWants</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="settings">Settings</string>
+    <string name="orders">Orders</string>
+    <string name="save">Save</string>
+    <string name="thank_you">Thank you!</string>
+</resources>
